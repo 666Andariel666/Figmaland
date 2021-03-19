@@ -10596,6 +10596,7 @@ ul {
 }
 
 .contact .contact-right_container__items {
+    margin: 0 auto;
     text-align: center;
     display: -webkit-box;
     display: -ms-flexbox;

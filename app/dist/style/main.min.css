@@ -9764,6 +9764,7 @@ ul {
 
 .player_video {
 /*     height: 80vh */
+    width: 100%;
 }
 
 .player--fullscreen .player_video {

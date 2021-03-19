@@ -11193,7 +11193,7 @@ ul {
     }
 
     .player_video {
-        height: 50vh
+/*         height: 50vh */
     }
 
     .player__panel-block>*:not(:last-child) {
